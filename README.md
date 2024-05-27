@@ -1,4 +1,4 @@
-# ML-on-MCU
+# Fall Detection on Microcontroller
 Final project of ETH Machine Learning on Microcontrollers course.
 
 The project is in collaboration with [@Liux1n](https://github.com/Liux1n). We together proposed several networks for human fall detection based on [KFall](https://sites.google.com/view/kfalldataset) dataset and implemented them on STM32 and MAX78000 platforms.
