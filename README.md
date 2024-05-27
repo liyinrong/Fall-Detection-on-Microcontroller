@@ -1,11 +1,11 @@
 # Fall Detection on Microcontroller
 Final project of ETH Machine Learning on Microcontrollers course.
 
-The project is in collaboration with [@Liux1n](https://github.com/Liux1n). We together proposed several networks for human fall detection based on [KFall](https://sites.google.com/view/kfalldataset) dataset and implemented them on STM32 and MAX78000 platforms.
+The project is completed in collaboration with [@Liux1n](https://github.com/Liux1n). We together proposed several networks for human fall detection based on [KFall](https://sites.google.com/view/kfalldataset) dataset and implemented them on STM32 and MAX78000 platforms.
 
 ## Structure
 The repository is structured as follows:
-1. [Fall_Detection](https://github.com/Liux1n/Fall_Detection) contrains code for model training.
+1. [Fall_Detection](https://github.com/Liux1n/Fall_Detection) contains code for model training.
 2. [FallDetection-STM32-CUBEAI](https://github.com/liyinrong/FallDetection-STM32-CUBEAI) contains STM32 implementation with CUBEAI runtime.
 3. [FallDetection-STM32-TFLite](https://github.com/liyinrong/FallDetection-STM32-TFLite) contains STM32 implementation with TensorFlow Lite runtime.
 4. [FallDetection-MAX78000](https://github.com/liyinrong/FallDetection-MAX78000) contains MAX78000 implementation.
