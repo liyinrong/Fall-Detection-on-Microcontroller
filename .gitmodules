@@ -1,0 +1,12 @@
+[submodule "Fall_Detection"]
+	path = Fall_Detection
+	url = git@github.com:Liux1n/Fall_Detection.git
+[submodule "FallDetection-STM32-CUBEAI"]
+	path = FallDetection-STM32-CUBEAI
+	url = git@github.com:liyinrong/FallDetection-STM32-CUBEAI.git
+[submodule "FallDetection-STM32-TFLite"]
+	path = FallDetection-STM32-TFLite
+	url = git@github.com:liyinrong/FallDetection-STM32-TFLite.git
+[submodule "FallDetection-MAX78000"]
+	path = FallDetection-MAX78000
+	url = git@github.com:liyinrong/FallDetection-MAX78000.git
